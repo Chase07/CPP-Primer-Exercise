@@ -1,0 +1,5 @@
+The type of the operation that a container uses to organize its elements is part of the
+type of that container. To specify our own operation, we must supply the type of that
+operation when we define the type of an associative container. The operation type is
+specified following the element type inside the angle brackets that we use to say
+which type of container we are defining.

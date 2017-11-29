@@ -1,0 +1,1 @@
+Like the sequential containers, the associative containers are templates. To define a map, we must specify both the key and value types. In this program,the map stores elements in which the keys are strings and the values are size_ts. When we subscript word_count, we use a string as the subscript, and we get back the size_t counter associated with that string.
