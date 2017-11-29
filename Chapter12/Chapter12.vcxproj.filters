@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\C++ Primer%27s Exercises\Chapter12\Chapter12\12-20.cpp">
+    <ClCompile Include="12-2-19-22-H-imple.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="12-2-19-22-H-imple.cpp">
+    <ClCompile Include="12-20.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
