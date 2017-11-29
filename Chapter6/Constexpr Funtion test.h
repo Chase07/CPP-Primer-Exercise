@@ -1,0 +1,1 @@
+constexpr int fun1(int i);
